@@ -13,7 +13,10 @@
     "autoload": {
         "psr-4": {
             "MissaelAnda\\Whatsapp\\": "src/"
-        }
+        },
+        "classmap": [
+            "src/"
+        ]
     },
     "config": {
         "sort-packages": true
