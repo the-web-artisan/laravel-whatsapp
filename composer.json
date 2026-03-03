@@ -15,6 +15,9 @@
             "MissaelAnda\\Whatsapp\\": "src/"
         }
     },
+    "config": {
+        "sort-packages": true
+    },
     "authors": [
         {
             "name": "Missael H. Anda",
